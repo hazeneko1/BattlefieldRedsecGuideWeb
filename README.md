@@ -1,0 +1,2 @@
+# BattlefieldRedsecGuide_PrivacyPolicies
+PrivacyPolicies about BattlefieldRedsecGuide App
